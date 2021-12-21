@@ -1,5 +1,6 @@
 #include <stdio.h>
 
+
 void check_lsb(int num)
 {
     // We can check LSB of a number by AND(ing)
@@ -10,6 +11,7 @@ void check_lsb(int num)
         printf("LSB of %d is 0\n", num);
 
 }
+
 
 int main(void)
 {
