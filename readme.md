@@ -1,5 +1,7 @@
 # Bitwise exercise
 
+[Exercises](https://codeforwin.org/2016/01/bitwise-operator-programming-exercises-and-solutions-in-c.html)
+
 1. Write a C program to check Least Significant Bit (LSB) of a number is set or not.
 2. Write a C program to check Most Significant Bit (MSB) of a number is set or not.
 3. Write a C program to get n^th^ bit of a number.
