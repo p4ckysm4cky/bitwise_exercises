@@ -13,6 +13,6 @@ int main(void)
     for (int i = 0; i < 16; i++) {
         int x = i;
         clear_nth_bit(&x, 0);
-        printf("%d\n", x);
+        printf("%d: %d\n", i, x);
     }
 }
