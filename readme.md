@@ -15,9 +15,9 @@
 11. Write a C program to flip bits of a binary number using bitwise operator
 12. Write a C program to count total zeros and ones in a binary number
 13. Write a C program to rotate bits of a given number
-14. Write a C program to convert decimal to binary number system using bitwise operator
+14. Write a C program to convert decimal to binary number system using bitwise operator ***(Already implemented in q3)***
 15. Write a C program to swap two numbers using bitwise operator
-16. Write a C program to check whether a number is even or odd using bitwise operator.
+16. Write a C program to check whether a number is even or odd using bitwise operator. ***(Already implemented in q1)***
 
 
 
